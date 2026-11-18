@@ -1,0 +1,6 @@
+{
+  "name": "MY STORE – Retail Management System",
+  "description": "Offline-capable Progressive Web Application for supermarket and retail POS, inventory, vendor, customer, and financial management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
